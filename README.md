@@ -1,0 +1,2 @@
+# amazom_encryptedPwd
+亚马逊encryptedPwd纯算法
